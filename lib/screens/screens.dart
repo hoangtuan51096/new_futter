@@ -1,0 +1,1 @@
+export '../home/like_text.dart';
